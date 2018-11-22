@@ -1,2 +1,5 @@
+*.tex
+*.png
 .ipynb_checkpoints
-1_similar_docs/data/enron_spam/
+venv
+1_similar_docs/data/spam/
