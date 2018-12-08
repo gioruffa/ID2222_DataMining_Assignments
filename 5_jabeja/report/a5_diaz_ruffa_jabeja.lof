@@ -1,0 +1,4 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces 3elt graph (\textit {LOCAL} policy) edge cut: 3209, swaps: 1599914, migrations: 3346\relax }}{2}{figure.caption.3}
+\contentsline {figure}{\numberline {2}{\ignorespaces 3elt graph (\textit {HYBRID} policy) edge cut: 2604, swaps: 1580209, migrations: 3328\relax }}{3}{figure.caption.4}
+\contentsline {figure}{\numberline {3}{\ignorespaces add20 graph (\textit {LOCAL} policy) edge cut: 3228, swaps: 1536807, migrations: 1645\relax }}{3}{figure.caption.5}
+\contentsline {figure}{\numberline {4}{\ignorespaces add20 graph (\textit {HYBRID} policy) edge cut: 2313, swaps: 2393224, migrations: 1747\relax }}{4}{figure.caption.6}
